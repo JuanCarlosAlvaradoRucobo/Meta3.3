@@ -1,15 +1,15 @@
 {
 "development": {
-    "username": "",
-    "password": "",
-    "database": "demo",
+    "username": "god",
+    "password": "firstday",
+    "database": "estudiantes_Api",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "database_test",
+    "username": "god",
+    "password": "firstday",
+    "database": "estudiantes_Api",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
